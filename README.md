@@ -8,6 +8,9 @@
 ### About me
 I'm a frontend developer and stutent of UNIP (Universidade Paulista) analysis and systems development.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tsalesproductions&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h1>languages
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
