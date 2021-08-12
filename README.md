@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a frontend developer and stutent of UNIP (Universidade Paulista) analysis and systems development.
+I'm a beginner frontend developer and stutent of UNIP (Universidade Paulista) analysis and systems development.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
 
