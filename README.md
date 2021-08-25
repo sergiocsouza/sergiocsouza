@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a beginner frontend developer and stutent of UNIP (Universidade Paulista) analysis and systems development.
+I'm a beginner frontend/backend developer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
 
@@ -17,12 +17,6 @@ I'm a beginner frontend developer and stutent of UNIP (Universidade Paulista) an
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<h1> learning
-
-<br>
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##  Top languages 
 
