@@ -6,7 +6,7 @@
 
 
 ### About me
-I'm a beginner frontend developer and learnig backend developer. <br>
+I'm a beginner backend developer and learnig backend developer. <br>
 
 love frontend sz <br>
 [My Site](https://sergio-portfoliio.netlify.app/)
@@ -21,7 +21,8 @@ love frontend sz <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ##  Top languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocsouza&layout=compact)](https://github.com/sergiocsouza)
