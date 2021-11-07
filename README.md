@@ -9,7 +9,7 @@
 I'm a beginner backend developer and learnig backend developer. <br>
 
 love frontend sz <br>
-[My Site](https://sergio-portfoliio.netlify.app/)
+[My Site](https://sergiio-portfolio.netlify.app/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
 
