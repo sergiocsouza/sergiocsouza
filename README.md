@@ -8,8 +8,6 @@
 ### About me
 I'm a beginner front-end developer and learnig front-end developer. <br>
 
-love backend sz <br>
-[My Site](https://sergiio-portfolio.netlify.app/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
 
