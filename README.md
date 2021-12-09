@@ -6,9 +6,9 @@
 
 
 ### About me
-I'm a beginner front-end developer and learnig front-end/back-end developer. <br>
+I'm a beginner front-end developer and learnig front-end. <br>
 
-PHP STUDENT
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
