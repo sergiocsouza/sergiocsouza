@@ -11,7 +11,7 @@
 
 ### About me
 I'm a beginner developer. <br>
-I'm from Santo André SP, I'm studying to be a node.js developer, right after finishing my graduation I'm going to do an mba in BIGDATA
+I'm from Santo André SP, I'm studying to be a node.js developer and i have knowledge in scrum.
 
 
 
