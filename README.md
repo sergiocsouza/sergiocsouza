@@ -2,7 +2,7 @@
 
 ### I'm 23 years old :metal:
 ### Studying systems analysis and development :man_technologist:	
-### At the Descomoplica college :technologist:	
+### At the Unicesumar :technologist:	
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https:/](https://www.linkedin.com/in/s%C3%A9rgio-concei%C3%A7%C3%A3o-b31b02177/)/)](https://www.linkedin.com/in/s%C3%A9rgio-concei%C3%A7%C3%A3o-b31b02177/)
