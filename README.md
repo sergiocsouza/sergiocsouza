@@ -1,84 +1,27 @@
-[Background image of a coding workspace]
+# Hi, I'm Sérgio! :D
 
-Title: Welcome to Sergio's GitHub Profile!
+### I'm 23 years old :metal:
 
-Slide 2:
-[Background image of lines of code]
 
-Title: About Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https:/](https://www.linkedin.com/in/s%C3%A9rgio-concei%C3%A7%C3%A3o-b31b02177/)/)](https://www.linkedin.com/in/s%C3%A9rgio-concei%C3%A7%C3%A3o-b31b02177/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Serja1_)](https://twitter.com/Serja1_)
 
-Subtitle: Meet Sergio - Passionate about Programming
 
-Name: Sérgio
-Age: 23
-Location: [Insert your location if desired]
-Slide 3:
-[Background image of a server room]
+### About me
+I'm a beginner developer. <br>
+I'm from Santo André SP, I'm studying to be a node.js developer and i have knowledge in scrum.
 
-Title: Journey into Back-end Development
 
-Subtitle: Exploring the Depths of Code
 
-Current Focus: Back-end Development
-Ambition: To become a skilled back-end developer
-Learning Path: Constantly improving my skills and knowledge in this field
-Slide 4:
-[Background image of a learning environment]
 
-Title: My Skills
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sergiocsouza&show_icons=true)](https://github.com/sergiocsouza/sergiocsouza)
 
-Subtitle: Building the Foundation
 
-Programming Languages: [List the languages you are proficient in, e.g., Python, Java, etc.]
-Web Development: Familiar with HTML, CSS, and JavaScript
-Databases: Basic understanding of SQL and database management
-Version Control: Experienced in using Git and GitHub
-Slide 5:
-[Background image of a team collaboration]
+<h1>Learnig </h1>
 
-Title: Collaboration and Communication
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Subtitle: Thriving in a Team Environment
+##  Top languages 
 
-Team Player: Enjoy collaborating with others to achieve goals
-Communication Skills: Effective in conveying ideas and understanding requirements
-Agile Methodologies: Familiar with Agile development practices
-Slide 6:
-[Background image of a project deployment]
-
-Title: Projects and Contributions
-
-Subtitle: Bringing Ideas to Life
-
-Personal Projects: [Highlight any personal projects you have worked on]
-Contributions: Active contributor to open-source projects [if applicable]
-Showcase: [List any notable achievements or projects]
-Slide 7:
-[Background image of a technology landscape]
-
-Title: Continuous Learning
-
-Subtitle: Embracing Growth
-
-Professional Development: Regularly participate in workshops, webinars, and online courses
-Stay Up-to-Date: Keep track of industry trends and advancements
-Side Projects: Always exploring new technologies and experimenting with personal projects
-Slide 8:
-[Background image of a hiring sign]
-
-Title: Let's Connect!
-
-Subtitle: Ready for New Opportunities
-
-Contact Information: [Include your email address and any relevant social media handles]
-GitHub Repository: Link to your GitHub profile
-LinkedIn Profile: Link to your LinkedIn profile [if available]
-Slide 9:
-[Background image of a thank you message]
-
-Title: Thank You!
-
-Subtitle: Ready to Take on New Challenges
-
-Any closing remarks or additional information you would like to include
-Note: Remember to customize the presentation with your own images and design preferences to make it more visually appealing and reflective of your personal style.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocsouza&layout=compact)](https://github.com/sergiocsouza)
